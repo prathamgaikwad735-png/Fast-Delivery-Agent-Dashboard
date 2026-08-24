@@ -64,7 +64,7 @@ To analyze how fast-delivery agents (Blinkit, JioMart, Swiggy Instamart, Zepto) 
 
 ## 🖼️ Screenshots & City-wise Insights
 
-### Overview (No Filter)
+### Overview 
 ![Overview](screenshots/01_overview.png)
 
 **Numbers:** Avg Rating 3.0 | Avg Delivery Time 35 min | Delivery time nearly flat across price ranges (High 35, Medium 36, Low 35)
