@@ -9,10 +9,10 @@ To analyze how fast-delivery agents (Blinkit, JioMart, Swiggy Instamart, Zepto) 
 
 ## Quick Nevigation
 - <a href="https://github.com/prathamgaikwad735-png/Fast-Delivery-Agent-Dashboard/blob/main/Fast%20Delivery%20Agent%20Reviews.xlsx">Dataset</a>
+- <a href="Key-Questions-/KPIs">Key Questions / KPIs</a>
 
 
-
-# Key Questions / KPIs
+<h2><a class="anchor" id="key-Questions / KPIs"></a>Key Questions / KPIs</h2>
 - Price Range's Avg Delivery Time — Which price range (High/Low/Medium) takes the longest to deliver?
 - Order Types – Products Availability — Which product category is most available in each city?
 - Agent's Customer Service Rating — Which agent has the best customer service rating in each city?
@@ -114,7 +114,8 @@ Insight: Lucknow is the only city where Electronics is the top category. Ratings
 
 ## 10. Pune
 
-![Uploading image.png…]()
+<img width="938" height="531" alt="image" src="https://github.com/user-attachments/assets/1bca3f10-b5ce-488c-a6f9-436225517686" />
+
 
  
 Analyze : Delivery Time — High 35, Low 35, Medium 33 min | Food leads availability (110 products) | Customer Service Rating: Swiggy Instamart 3.14 (highest) | Agent Avg Rating: JioMart 3.08 (highest, narrowly over Zepto 3.07) | Positive Feedback: Zepto 51 (highest)
@@ -125,7 +126,7 @@ Insight: Food is the top category in Pune. Swiggy Instamart leads on service rat
 -	Category Trend: Grocery and Essentials dominate most cities; Electronics is the top category only in Lucknow, Food leads in Delhi and Pune, and Pharmacy leads in Ahmedabad.
 -	Highest Customer Service Rating by City: Swiggy Instamart (Ahmedabad, Hyderabad, Bangalore, Pune), JioMart (Chennai, Mumbai, Lucknow), Zepto (Jaipur), Blinkit (Delhi), Blinkit/JioMart tied (Kolkata)
 -	Highest Positive Feedback by City: Zepto (Ahmedabad, Pune), Blinkit (Chennai, Hyderabad, Bangalore, Jaipur), Swiggy Instamart (Kolkata), JioMart (Mumbai), Swiggy Instamart/Zepto tied (Delhi)
--	
+	
 ## Key Observation: In 8 out of 10 cities, the agent with the highest customer service rating is not the same agent with the highest positive feedback. This shows rating and feedback measure different things — ratings reflect the immediate service score, while feedback reflects overall customer sentiment. Blinkit appears most frequently as the top positive-feedback agent across cities (4 out of 10), making it the most consistently well-received agent on customer sentiment nationally.
 
 ## Tools Used
