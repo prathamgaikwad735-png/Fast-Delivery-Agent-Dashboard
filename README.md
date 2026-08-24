@@ -10,7 +10,8 @@ To analyze how fast-delivery agents (Blinkit, JioMart, Swiggy Instamart, Zepto) 
 ## Quick Nevigation
 - <a href="https://github.com/prathamgaikwad735-png/Fast-Delivery-Agent-Dashboard/blob/main/Fast%20Delivery%20Agent%20Reviews.xlsx">Dataset</a>
 - <a href="Key-Questions-/KPIs">Key Questions / KPIs</a>
-
+- <a href="Process & Methodology">Process & Methodology</a>
+- <a href="Overview">Overview</a>
 
 <h2><a class="anchor" id="key-Questions / KPIs"></a>Key Questions / KPIs</h2>
 - Price Range's Avg Delivery Time — Which price range (High/Low/Medium) takes the longest to deliver?
@@ -20,14 +21,14 @@ To analyze how fast-delivery agents (Blinkit, JioMart, Swiggy Instamart, Zepto) 
 - Customer Feedback Type by Agent — Which agent receives the most positive/negative feedback?
 Overall (unfiltered) numbers: Avg Rating 3.0 | Avg Delivery Time 35 minutes
 
-# Process & Methodology
+<h2><a class="anchor" id="Process & Methodology"></a>Process & Methodology</h2>
 1.	Data Source: Delivery agent order-level data (city, price range, delivery time, product category, ratings, feedback) collected and loaded into Excel.
 2.	Slicer Setup: A single Location (City) slicer was used (Excel PivotTable/PivotChart Slicer), allowing the entire dashboard to filter to a specific city with one click.
 3.	Charts Built (Excel PivotCharts): Price Range's Average Delivery Time, Order Types – Products Availability, Agent's Customer Service Rating, Agent's Avg Rating, Customer Feedback Type by Agent.
 4.	Analysis Approach: Each city was selected on the slicer, and the exact numbers from all 5 charts were recorded from the dashboard screenshots below.
 5.	Screenshots: A screenshot was captured for each city view (11 total — 1 overview + 10 cities), included below.
 
-## -	Overview 
+<h2><a class="anchor" id="Overview"></a>Overview</h2>
 
 <img width="938" height="531" alt="image" src="https://github.com/user-attachments/assets/b255f354-f10a-4159-83fd-f13bcf40044d" />
 
